@@ -1,0 +1,112 @@
+{
+  "products": [
+    {
+      "name": "Moisture Cleansing Oil",
+      "cat": "Nettoyage",
+      "desc": "Une huile nettoyante pour la première étape du démaquillage et du nettoyage du visage.",
+      "benefit": "Elle s’inscrit dans la phase de nettoyage, notamment pour retirer les résidus gras en surface.",
+      "routine": "À utiliser à l’étape de nettoyage, selon les instructions du fabricant.",
+      "ingredients": "La liste complète des ingrédients (INCI), les précautions spécifiques et les éventuelles contre-indications seront ajoutées après vérification de la fiche officielle.",
+      "image": "assets/cleansing.jpg"
+    },
+    {
+      "name": "Balancing Gel Cleanser",
+      "cat": "Nettoyage",
+      "desc": "Un gel nettoyant destiné au nettoyage quotidien du visage.",
+      "benefit": "Le gel nettoyant participe à l’élimination des impuretés présentes à la surface de la peau.",
+      "routine": "À placer dans la phase de nettoyage, seul ou après une huile selon le rituel choisi.",
+      "ingredients": "La liste complète des ingrédients (INCI), les précautions spécifiques et les éventuelles contre-indications seront ajoutées après vérification de la fiche officielle.",
+      "image": "assets/cleansing.jpg"
+    },
+    {
+      "name": "Cleansing Powder Wash",
+      "cat": "Nettoyage",
+      "desc": "Un nettoyant pour le visage présenté sous forme de poudre.",
+      "benefit": "Il propose une autre texture pour l’étape du nettoyage du visage.",
+      "routine": "Suivre les instructions officielles de préparation et d’application avant utilisation.",
+      "ingredients": "La liste complète des ingrédients (INCI), les précautions spécifiques et les éventuelles contre-indications seront ajoutées après vérification de la fiche officielle.",
+      "image": "assets/cleansing.jpg"
+    },
+    {
+      "name": "Calming Balance Gel",
+      "cat": "Soin",
+      "desc": "Un gel de soin de la sélection RIMAN.",
+      "benefit": "Sa texture gel peut intéresser les personnes recherchant une étape de soin légère.",
+      "routine": "À intégrer après le nettoyage, dans l’ordre recommandé par RIMAN.",
+      "ingredients": "La liste complète des ingrédients (INCI), les précautions spécifiques et les éventuelles contre-indications seront ajoutées après vérification de la fiche officielle.",
+      "image": "assets/dermatology.jpg"
+    },
+    {
+      "name": "Dermatology Cream",
+      "cat": "Soin",
+      "desc": "Une crème pour le visage de la gamme Dermatology RIMAN.",
+      "benefit": "Une crème s’intègre à la phase de soin et de confort de la peau.",
+      "routine": "À appliquer selon les recommandations officielles, dans la phase finale des soins.",
+      "ingredients": "La liste complète des ingrédients (INCI), les précautions spécifiques et les éventuelles contre-indications seront ajoutées après vérification de la fiche officielle.",
+      "image": "assets/dermatology.jpg"
+    },
+    {
+      "name": "Two Phase Oil Mist",
+      "cat": "Soin",
+      "desc": "Une brume de soin biphasée de la sélection RIMAN.",
+      "benefit": "Son format brume permet une application en vaporisation lorsque les instructions le prévoient.",
+      "routine": "Agiter ou non selon les instructions officielles de ce produit, puis utiliser à l’étape conseillée.",
+      "ingredients": "La liste complète des ingrédients (INCI), les précautions spécifiques et les éventuelles contre-indications seront ajoutées après vérification de la fiche officielle.",
+      "image": "assets/dermatology.jpg"
+    },
+    {
+      "name": "Multi Stick Balm",
+      "cat": "Soin",
+      "desc": "Un baume présenté dans un format stick pratique.",
+      "benefit": "Le format stick permet une application localisée sur les zones indiquées par le fabricant.",
+      "routine": "À intégrer dans la routine selon les zones et fréquences d’application officielles.",
+      "ingredients": "La liste complète des ingrédients (INCI), les précautions spécifiques et les éventuelles contre-indications seront ajoutées après vérification de la fiche officielle.",
+      "image": "assets/dermatology.jpg"
+    },
+    {
+      "name": "Moisture Layer Sun Protector",
+      "cat": "Protection",
+      "desc": "Un soin de protection solaire de la gamme RIMAN.",
+      "benefit": "Il s’inscrit dans la protection de la peau lors de l’exposition au soleil.",
+      "routine": "À utiliser le matin selon le mode d’emploi, l’indice SPF officiel et les règles de renouvellement indiquées.",
+      "ingredients": "La liste complète des ingrédients (INCI), les précautions spécifiques et les éventuelles contre-indications seront ajoutées après vérification de la fiche officielle.",
+      "image": "assets/protection.jpg"
+    },
+    {
+      "name": "ICD Dermatology First Package — Booster + Serum",
+      "cat": "Coffret",
+      "desc": "Le duo indissociable Dermatology Booster et Dermatology Serum, présenté ensemble dans le coffret ICD Dermatology First Package.",
+      "benefit": "Un rituel en deux soins complémentaires, présentés ensemble et non vendus séparément.",
+      "routine": "1. Dermatology Booster. 2. Dermatology Serum. Suivre les instructions officielles pour les quantités et la fréquence.",
+      "ingredients": "Contenu indiqué : Dermatology Booster et Dermatology Serum. Les listes INCI détaillées restent à vérifier sur les fiches officielles.",
+      "image": "assets/collection.jpg"
+    },
+    {
+      "name": "Sélection découverte — Cleanse & Protect Ritual",
+      "cat": "Coffret",
+      "desc": "Exemple de rituel présenté à titre indicatif. La composition commerciale exacte de ce coffret n’est pas confirmée.",
+      "benefit": "Découvrez les différentes étapes d’un rituel beauté ; le contenu officiel de ce pack reste à vérifier.",
+      "routine": "Ne pas interpréter cette sélection comme un coffret RIMAN officiellement commercialisé tant que son contenu n’est pas confirmé.",
+      "ingredients": "Composition officielle et quantités à confirmer avant publication commerciale.",
+      "image": "assets/collection.jpg"
+    },
+    {
+      "name": "Sélection découverte — Hydration Essentials Ritual",
+      "cat": "Coffret",
+      "desc": "Exemple de rituel présenté à titre indicatif. La composition commerciale exacte de ce coffret n’est pas confirmée.",
+      "benefit": "Découvrez les différentes étapes d’un rituel beauté ; le contenu officiel de ce pack reste à vérifier.",
+      "routine": "Ne pas interpréter cette sélection comme un coffret RIMAN officiellement commercialisé tant que son contenu n’est pas confirmé.",
+      "ingredients": "Composition officielle et quantités à confirmer avant publication commerciale.",
+      "image": "assets/collection.jpg"
+    },
+    {
+      "name": "Sélection découverte — Full Korean Glow Ritual",
+      "cat": "Coffret",
+      "desc": "Exemple de rituel présenté à titre indicatif. La composition commerciale exacte de ce coffret n’est pas confirmée.",
+      "benefit": "Découvrez les différentes étapes d’un rituel beauté ; le contenu officiel de ce pack reste à vérifier.",
+      "routine": "Ne pas interpréter cette sélection comme un coffret RIMAN officiellement commercialisé tant que son contenu n’est pas confirmé.",
+      "ingredients": "Composition officielle et quantités à confirmer avant publication commerciale.",
+      "image": "assets/collection.jpg"
+    }
+  ]
+}
