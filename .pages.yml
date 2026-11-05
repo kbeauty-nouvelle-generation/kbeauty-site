@@ -10,7 +10,29 @@ content:
     path: data/catalogue.json
     format: json
     fields:
-      - name: body
-        label: "Catalogue"
-        type: code
-  
+      - name: products
+        label: "Produits"
+        type: object
+        list: true
+        fields:
+          - name: name
+            label: "Nom du produit"
+            type: string
+          - name: cat
+            label: "Catégorie"
+            type: string
+          - name: desc
+            label: "Description"
+            type: text
+          - name: benefit
+            label: "Bienfaits"
+            type: text
+          - name: routine
+            label: "Conseils d'utilisation"
+            type: text
+          - name: ingredients
+            label: "Ingrédients"
+            type: text
+          - name: image
+            label: "Photo du produit"
+            type: image
