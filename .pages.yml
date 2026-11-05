@@ -1,0 +1,14 @@
+media:
+  input: assets
+  output: /assets
+
+content:
+  - name: site
+    label: "Site K-Beauty"
+    type: file
+    path: index.html
+    format: raw
+    fields:
+      - name: body
+        label: "Code du site"
+        type: code
