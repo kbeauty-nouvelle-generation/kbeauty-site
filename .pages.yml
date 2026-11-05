@@ -1,14 +1,16 @@
+
 media:
   input: assets
   output: /assets
 
 content:
-  - name: site
-    label: "Site K-Beauty"
+  - name: catalogue
+    label: "Catalogue K-Beauty"
     type: file
-    path: index.html
-    format: raw
+    path: data/catalogue.json
+    format: json
     fields:
       - name: body
-        label: "Code du site"
+        label: "Catalogue"
         type: code
+  
