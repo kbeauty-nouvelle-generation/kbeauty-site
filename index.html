@@ -6,12 +6,21 @@
 /* Espace contact */
 .contact-section{background:#f0f1e9}.contact-panel{background:#fff;border:1px solid #e7e2d6;border-radius:16px;padding:clamp(22px,4vw,44px);box-shadow:0 12px 35px #183d3410}.contact-options{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:15px;margin:26px 0 12px}.contact-option{border:1px solid #d9e1d5;border-radius:12px;padding:23px 17px;text-decoration:none;display:flex;flex-direction:column;align-items:flex-start;gap:9px;background:#fbfcf8;transition:transform .15s,border-color .15s}.contact-option:hover{transform:translateY(-3px);border-color:#b58a4d}.contact-option strong{color:#183d34;font-size:18px}.contact-option .contact-icon{font-size:28px}.contact-option small{color:#67736b;overflow-wrap:anywhere}.contact-option .contact-action{color:#a17a42;font-weight:700;font-size:13px}.contact-privacy{font-size:12px;color:#67736b}@media(max-width:700px){.contact-options{grid-template-columns:1fr}}
 
+
+.hero {
+  height: auto !important;
+  min-height: 0 !important;
+  overflow: visible !important;
+}
+
 .hero img {
   display: block;
   width: 100%;
-  height: auto;
-  object-fit: contain;
+  height: auto !important;
+  max-height: none !important;
+  object-fit: contain !important;
 }
+
 /style></head><body>
 <header><div class="nav"><a class="logo" href="#accueil">K-Beauty Nouvelle Génération<small>DISTRIBUTEUR INDÉPENDANT RIMAN</small></a><nav class="navlinks" aria-label="Navigation principale"><a href="#accueil">Accueil</a><a href="#catalogue">Catalogue</a><a href="#rituels">Rituels</a><a href="#riman">RIMAN</a><a href="#distributeur">Devenir distributeur</a><a href="#contact">Me contacter</a></nav></div></header>
 <section class="hero" id="accueil"><img src="assets/banniere.jpg" alt="Bannière K-Beauty et présentation des soins RIMAN"><div class="hero-bottom"><h1>La beauté coréenne arrive autrement</h1><p>Un univers de soins à découvrir et une activité indépendante à explorer. Choisissez le parcours qui vous ressemble.</p><a class="btn white" href="#catalogue">Découvrir les produits</a> <a class="btn ghost" href="#distributeur">Découvrir l'activité</a></div></section>
