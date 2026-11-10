@@ -1,0 +1,10 @@
+DUPLICATION DU SITE — MODE D’EMPLOI
+
+1. Copier l’intégralité du dossier dans un nouveau dépôt GitHub.
+2. Adapter dans index.html les liens RIMAN (identifiant constant2026), le nom, les contacts et les coordonnées.
+3. Adapter les 3 pages légales et CONFIGURATION_DUPLICATION.json au nouvel éditeur.
+4. Ne pas remplacer uniquement le JSON : le site ne lit pas automatiquement ce fichier.
+5. Vérifier les images, le catalogue et les liens avant de connecter le nouveau dépôt à Netlify.
+6. Vérifier les autorisations de marque et la conformité juridique pour chaque distributeur.
+
+ATTENTION : la duplication est préparée et documentée, pas automatisée.
